@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mikeelmasry
-- 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning Kubernetes
-- 💞️ I’m looking to collaborate on simple projects for learning Infrastructure as Code
+- 👀 I’m interested in Generative AI
+- 🌱 I’m currently building iOS apps
+- 💞️ I’m looking to build automations that leverage AI
 - 📫 How to reach me ... mikeelmasry.com
 
 <!---
